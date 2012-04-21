@@ -1,0 +1,7 @@
+{"version": 1,
+"meta": {"name": "musl", "version": "0.8.9",
+"description": "Musl libc.",
+"dependencies": "",
+"provides": "libc",
+"url": "http://etalabs.org/musl"},
+"package": {"script": "build.sh"}}

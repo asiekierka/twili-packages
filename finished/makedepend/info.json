@@ -1,0 +1,7 @@
+{"version": 1,
+"meta": {"name": "makedepend", "version": "1.0.4",
+"description": "dependency generator for C files",
+"dependencies": "libc",
+"provides": "",
+"url": ""},
+"package": {"script": "build.sh"}}

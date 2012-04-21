@@ -1,0 +1,7 @@
+{"version": 1,
+"meta": {"name": "gamin", "version": "0.1.10",
+"description": "file and directory monitoring system",
+"dependencies": "libc glib",
+"provides": "",
+"url": "http://people.gnome.org/~veillard/gamin/"},
+"package": {"script": "build.sh"}}

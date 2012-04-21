@@ -1,0 +1,8 @@
+{"version": 1,
+"meta": {"name": "gcc64", "version": "4.6.3",
+"description": "GNU C Compiler.",
+"dependencies": "libc binutils gawk mpfr mpc gmp",
+"provides": "gcc",
+"conflicts": "gcc",
+"url": "http://www.gcc.gnu.org/"},
+"package": {"script": "build.sh"}}

@@ -1,0 +1,7 @@
+{"version": 1,
+"meta": {"name": "pekwm", "version": "0.1.14",
+"description": "pekwm window manager",
+"dependencies": "libc libice libx11 libxext libxft libpng",
+"provides": "",
+"url": "http://www.pekwm.org/"},
+"package": {"script": "build.sh", "dependencies": "wget openssl"}}

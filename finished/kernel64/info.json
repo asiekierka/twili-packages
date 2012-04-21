@@ -1,0 +1,8 @@
+{"version": 1,
+"meta": {"name": "kernel64", "version": "3.3.2",
+"description": "Linux kernel.",
+"dependencies": "",
+"provides": "kernel",
+"conflicts": "kernel",
+"url": "http://www.kernel.org/"},
+"package": {"script": "build.sh"}}
